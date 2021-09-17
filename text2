@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+ing main() {
+    printf('Привет\n');
+remote 0;
+}
